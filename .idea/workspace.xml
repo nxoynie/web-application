@@ -5,12 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3ae1937a-30ba-490f-88a4-4d8022165890" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/productmanagerapp/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/productmanagerapp/src/app/app.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/productmanagerapp/src/app/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/productmanagerapp/src/app/app.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/productmanagerapp/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/productmanagerapp/src/app/app.module.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/productmanagerapp/src/environments/environment.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/productmanagerapp/src/environments/environment.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/productmanagerapp/src/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/productmanagerapp/src/styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/productmanagerapp/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/productmanagerapp/tsconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_test_5_1_3_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/webapplication/configuration/AppSecurityConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/webapplication/configuration/AppSecurityConfiguration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/webapplication/product/controller/ProductController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/webapplication/product/controller/ProductController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/webapplication/product/service/ProductService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/webapplication/product/service/ProductService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/webapplication/configuration/AppSecurityConfiguration.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/webapplication/configuration/AppSecurityConfiguration.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/webapplication/configuration/InMemoryDatabaseInitializer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/webapplication/configuration/InMemoryDatabaseInitializer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/webapplication/product/service/ProductService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/webapplication/product/service/ProductService.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +44,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources/static" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/jsf-db-2020-11-05" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -80,13 +82,15 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/src/productmanagerapp/src/app/app.component.ts</url>
           <line>109</line>
-          <properties lambdaOrdinal="-1" />
           <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>
